@@ -15,6 +15,9 @@ The literature review should summarize the existing research relevant to your to
 [TALKPAL AI - Learn language](https://talkpal.ai/)
 [Syntesis](https://www.synthesis.com/tutor)
 
+### Writings
+[Smart Tutors: Delivering Personalized Learning](https://www.epam.com/insights/blogs/smart-tutors-delivering-personalized-learning)
+
 
 ### Papers
 
