@@ -1,6 +1,9 @@
 
+# AI as a personalized tutor
+
 ## Abstract
 The abstract should provide a brief summary of your research proposal. It should include the research question, the context of your study, the methods you plan to use, and the potential implications of your research.
+
 
 ## Introduction
 The introduction should provide a clear statement of the problem you're investigating. It should include the context or background for the problem, the purpose of the study, and the research questions you aim to answer. Here, you can also explain the importance of the research in the context of current trends or challenges.

@@ -13,6 +13,22 @@
 	- 
 
 
+# Helpful quotes
+
+https://openai.com/customer-stories/khan-academy
+
+> But every student is unique, and their grasp of concepts and skills varies—by a lot. Some may breeze through a subject while others need step-by-step help.
+
+> “It’s challenging to keep everyone advancing, given their different needs,” says Khan Academy’s Chief Learning Officer Kristen DiCerbo. “They’re all at different levels. They all have different gaps. They all need different things to move forward. That is a problem we’ve been trying to solve for a long time.”
+
+>“One of the things we and all educational technology companies struggle with is how to get students thinking deeply about the content that they’re learning,” DiCerbo says. “To think about questions like, ‘Why did you answer that way? Why do you think that's true? What would happen _if_—?’ So we’re making sure students aren't just understanding how to do the problem, but really understanding the concepts behind them.”
+
+#instructional_materials
+
+
+#LaMDA
+
+
 
 ### Applications
 [TutorAi](https://www.tutorai.me)
